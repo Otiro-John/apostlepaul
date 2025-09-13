@@ -384,6 +384,7 @@ p,button,a,span{
       }
       .card img{
         width: 296px;
+        border-radius: 12px;
       }
       .letter{
         width: 250px;
@@ -402,6 +403,7 @@ p,button,a,span{
       }
 
     }
+
 
 
 
