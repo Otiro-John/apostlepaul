@@ -304,6 +304,7 @@ p,button,a,span{
 }
 .about .about-text h3{
     padding: 12px 0;
+    font-weight: 700;
 }
 .about .about-text p{
     line-height: 35px;
@@ -403,6 +404,7 @@ p,button,a,span{
       }
 
     }
+
 
 
 
